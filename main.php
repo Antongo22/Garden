@@ -134,7 +134,7 @@
                 <th>Tree index</th>
                 <th>Tree name</th>
                 <th>Number of fruits</th>
-                <th>Fruit weight</th>
+                <th>Fruit weight (kg)</th>
             </tr>
         </thead>
         <tbody>
@@ -151,7 +151,7 @@
             <tr>
                 <th>Tree name</th>
                 <th>Total number of fruits</th>
-                <th>Total fruit weight</th>
+                <th>Total fruit weight (kg)</th>
             </tr>
         </thead>
         <tbody>
